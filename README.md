@@ -16,7 +16,7 @@ Awards:
 
 Fun fact: 
 
-![Angry Brid](22791743223944_.pic_hd.jpg)
+![Angry Brid](https://github.com/cathymonkey1/cathymonkey1/blob/main/22791743223944_.pic_hd.jpg)
 
 <!--
 **cathymonkey1/cathymonkey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
