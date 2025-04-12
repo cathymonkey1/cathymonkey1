@@ -1,22 +1,5 @@
 ## Hi there 👋
 
-For demo only, not my actual profile 
-
-**bold**
-
-*italic*
-
-Personal website: [Text](actual link)
-
-Past projects:
-
-Current projects:
-
-Awards:
-
-Fun fact: 
-
-![Angry Brid](https://github.com/cathymonkey1/cathymonkey1/blob/main/22791743223944_.pic_hd.jpg)
 
 <!--
 **cathymonkey1/cathymonkey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
